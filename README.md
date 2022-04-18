@@ -1,11 +1,19 @@
 ### Olá! Sou o Átila e este é meu Github 🌊🌊🌊
 
+
+### 💻 Oceanografo | Cientista de Dados | Python Dev
+### 🎓 Universidade Federal do Maranhão
+### 📍 São Luís - MA
+
+
+
+
 ##
 
 <div align="center">
   <a href="https://github.com/atilarocha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atilarocha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilarocha&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atilarocha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilarocha&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   
