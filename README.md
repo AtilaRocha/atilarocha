@@ -1,11 +1,11 @@
-### Olá! Sou o Átila e este é meu Github 🌊🌊🌊
+## Olá! Sou o Átila e este é meu Github 🌊🌊🌊
 
 
 ### 💻 Oceanografo | Cientista de Dados | Python Dev
 ### 🎓 Universidade Federal do Maranhão
 ### 📍 São Luís - MA
 
-
+#### Sou desenvolvedor Python sedento por conhecimento no inicio da carreira, minhas metas principais são adquirir mais skills e centralizar meu conhecimento na Ciência de Dados. Venho da Oceanografia, por isso meu norte continua sendo o Mar! Mas sempre aberto a novos Desafios!
 
 
 ##
@@ -26,7 +26,7 @@
 
 </div>
 
-  ##
+  
   
   
  <div> 
@@ -39,8 +39,8 @@
  
 </div>
   
-  
-##
+  ##
+
 <!--
 **AtilaRocha/atilarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
