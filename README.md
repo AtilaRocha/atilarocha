@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A66C8&height=120&section=header"/>
-<hr>
+
 <h1 align="center">Bem-vindo(a) ao meu GitHub!</h1>
   <p Align="justify">Olá, meu nome é Átila e sou um desenvolvedor apaixonado por tecnologia. Meu foco atual de estudo é em Back-End, mas também tenho experiência em Analise de dados e Geoprocessamento</p>
   <p Align="justify">Atualmente venho adquirindo conhecimentos em Python, Django, Java, HTML, CSS, API REST dentre outras stacks por meio de projetos pessoais e necessidades profissionais. Sempre estou disposto a aprender algo novo e aperfeiçoar minhas técnicas. Estagiei na Secretaria Estadual de Meio Ambiente em que aprimorei muitos conhecimentos do desenvolvimento Tech, procuro aplicar e também desenvolver alguns projetos de forma particular, algumas ideias que tenho no trabalho, criatividade é algo que tenho muito para resolver problemas e empolgação para iniciar novos projetos tenho de sobra! </p>
@@ -16,23 +16,6 @@
 </ul>
 <hr>
 
-<div>
-    <table>
-        <tr><td><img height="150em" src="https://github-readme-stats.vercel.app/api?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 15px;"/>
-        <img height="150em"src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 15px;">
-        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atilarocha&theme=dark"style="border: 1px solid white; border-radius: 5px; margin: 10px;"/><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atilarocha&theme=dark"style="border: 1px solid white; border-radius: 5px; margin: 10px;"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilarocha&layout=compact&theme=dark"style="border: 1px solid white; border-radius: 5px; margin: 10px;"/></td></tr>
-    </table>
-    <table>
-        <tr><td><div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-        </td></tr>
-        </table>
-</div>
- 
-   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
- 
 ## 🚀 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -58,6 +41,18 @@
 ![world](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
   
+<div>
+    <table>
+        <tr><td><img height="150em" src="https://github-readme-stats.vercel.app/api?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 15px;"/>
+        <img height="150em"src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 15px;">
+        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atilarocha&theme=dark"style="border: 1px solid white; border-radius: 5px; margin: 10px;"/><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atilarocha&theme=dark"style="border: 1px solid white; border-radius: 5px; margin: 10px;"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilarocha&layout=compact&theme=dark"style="border: 1px solid white; border-radius: 5px; margin: 10px;"/><div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+        </td></tr>
+        </table>
+</div>
+
 ## 👨 Social
 <a href="https://github.com/atilarocha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 <a href="mailto:atila.o.rocha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
