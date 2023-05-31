@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A66C8&height=120&section=header"/>
+<hr>
 <h1 align="center">Bem-vindo(a) ao meu GitHub!</h1>
   <p Align="justify">Olá, meu nome é Átila e sou um desenvolvedor apaixonado por tecnologia. Meu foco atual de estudo é em Back-End, mas também tenho experiência em Analise de dados e Geoprocessamento</p>
   <p Align="justify">Atualmente venho adquirindo conhecimentos em Python, Django, Java, HTML, CSS, API REST dentre outras stacks por meio de projetos pessoais e necessidades profissionais. Sempre estou disposto a aprender algo novo e aperfeiçoar minhas técnicas. Estagiei na Secretaria Estadual de Meio Ambiente em que aprimorei muitos conhecimentos do desenvolvimento Tech, procuro aplicar e também desenvolver alguns projetos de forma particular, algumas ideias que tenho no trabalho, criatividade é algo que tenho muito para resolver problemas e empolgação para iniciar novos projetos tenho de sobra! </p>
@@ -7,7 +8,14 @@
 - 💻 **Back-End** Developer 
 - 📍  São Luís - MA
 - 🌱 Estudando: **API Rest Java e Spring**
-##
+
+### Projetos   💻 
+<ul>
+  <li><a href="https://github.com/AtilaRocha/HydroDataViewer"> HydroDataViewer </a></li>
+  <li><a href="https://github.com/AtilaRocha/Api-with-Flask">Api Flask </a></li>
+</ul>
+<hr>
+
 <div>
     <table>
         <tr><td><img height="150em" src="https://github-readme-stats.vercel.app/api?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 15px;"/>
