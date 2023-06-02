@@ -13,6 +13,7 @@
 <ul>
   <li><a href="https://github.com/AtilaRocha/HydroDataViewer"> HydroDataViewer </a></li>
   <li><a href="https://github.com/AtilaRocha/Api-with-Flask">Api Flask </a></li>
+  <li><a href="https://github.com/AtilaRocha/webscraping-tempo.com">Web Scraping do tempo.com</a></li>
 </ul>
 <hr>
 
@@ -22,9 +23,13 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![pandas](https://img.shields.io/badge/-Pandas-<COLO?style=for-the-badge&logo=appveyorR>)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/-pandas-brightgreen?style=for-the-badge&logo=pandas)&nbsp;
+![GoogleEarthEngine](https://img.shields.io/badge/-GEE-lightgrey?style=for-the-badge&logo=googleearth)&nbsp;
 
 ## ⚡ Database
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
