@@ -6,7 +6,7 @@
   <p Align="justify">Este é meu perfil no GitHub onde eu compartilho meus projetos e códigos desenvolvidos durante meus estudos e trabalhos. Sinta-se à vontade para explorar e deixar um feedback ou sugestão!</p>
 
 - 💻 **Back-End** Developer 
-- 📍  São Luís - MA
+- 📍  Estreito - MA
 - 🌱 Estudando: **API Rest Java e Spring**
 
 ### Projetos   💻 
