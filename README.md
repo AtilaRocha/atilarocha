@@ -53,15 +53,7 @@
 - Programação Web com Python e Django Framework
 - Séries Temporais com Python 
 
-<div>
-    <table>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 15px;"/>
-    <img height="150em"src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 15px;">
-    <!-- <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atilarocha&theme=dark"style="border: 1px solid white; border-radius: 5px; margin: 10px;"/><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atilarocha&theme=dark"style="border: 1px solid white; border-radius: 5px; margin: 10px;"/> -->
-    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilarocha&layout=compact&theme=dark"style="border: 1px solid white; border-radius: 5px; margin: 10px;"/><div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;"> -->
-    <!-- <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atilarocha&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> -->
-        </table>
-</div>
+
 
 
 ## 👨 Social
