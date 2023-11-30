@@ -1,11 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A66C8&height=120&section=header"/>
 
 <h1 align="center">Bem-vindo(a) ao meu GitHub!</h1>
-  <p Align="justify">Olá, meu nome é Átila e sou um desenvolvedor apaixonado por tecnologia. Meu foco atual de estudo é em Back-End, mas também tenho experiência em Analise de dados e Geoprocessamento</p>
-  <p Align="justify">Atualmente venho adquirindo conhecimentos em Python, Django, Java, HTML, CSS, APIREST dentre outras stacks por meio de projetos pessoais e necessidades profissionais. Sempre estou disposto a aprender algo novo e aperfeiçoar minhas técnicas. Estagiei na Secretaria Estadual de Meio Ambiente em que aprimorei muitos conhecimentos do desenvolvimento Tech, procuro aplicar e também desenvolver alguns projetos de forma particular, algumas ideias que tenho no trabalho, criatividade é algo que tenho muito para resolver problemas e empolgação para iniciar novos projetos tenho de sobra! Este é meu perfil no GitHub onde eu compartilho meus projetos e códigos desenvolvidos durante meus estudos e trabalhos. Sinta-se à vontade para explorar e deixar um feedback ou sugestão!</p>
+  <p Align="justify">Olá, meu nome é Átila e sou um desenvolvedor apaixonado por tecnologia. Meu foco atual de estudo é em BackEnd, mas também tenho experiência em Analise de dados e Geoprocessamento.</p>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="height: 300px;" align="right">
+  <p Align="justify">Atualmente venho adquirindo conhecimentos em Python, Django, Java, HTML, CSS, APIREST dentre outras stacks por meio de projetos pessoais e necessidades profissionais. Sempre estou disposto a aprender algo novo e aperfeiçoar minhas técnicas. </p>
+  <p Align="justify">Estagiei na Secretaria Estadual de Meio Ambiente em que aprimorei muitos conhecimentos do desenvolvimento Tech, procuro aplicar e também desenvolver alguns projetos de forma particular, algumas ideias que tenho no trabalho, criatividade é algo que tenho muito para resolver problemas e empolgação para iniciar novos projetos tenho de sobra! Este é meu perfil no GitHub onde eu compartilho meus projetos e códigos desenvolvidos durante meus estudos e trabalhos. Sinta-se à vontade para explorar e deixar um feedback ou sugestão!</p>
 
 - 💻 **Back-End** Developer 
-- 🌱 Estudando: **APIRest, Java e Springboot**
+- 🌱 Estudando: **Typescript, Express, PostgresSQL, Prisma ORM, Docker, Jest, Swagger**
 
 ### Projetos   💻 
 <ul>
@@ -52,9 +54,6 @@
 - Git Versionamento
 - Programação Web com Python e Django Framework
 - Séries Temporais com Python 
-
-
-
 
 ## 👨 Social
 
