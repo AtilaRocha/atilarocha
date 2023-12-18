@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A66C8&height=120&section=header"/>
+<
+img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A66C8&height=120&section=header"/>
 
 <h1 align="center">Bem-vindo(a) ao meu GitHub!</h1>
   <p Align="justify">Olá, meu nome é Átila e sou um desenvolvedor apaixonado por tecnologia. Meu foco atual de estudo é em BackEnd, mas também tenho experiência em Analise de dados e Geoprocessamento.</p>
@@ -7,7 +8,7 @@
   <p Align="justify">Estagiei na Secretaria Estadual de Meio Ambiente em que aprimorei muitos conhecimentos do desenvolvimento Tech, procuro aplicar e também desenvolver alguns projetos de forma particular, algumas ideias que tenho no trabalho, criatividade é algo que tenho muito para resolver problemas e empolgação para iniciar novos projetos tenho de sobra! Este é meu perfil no GitHub onde eu compartilho meus projetos e códigos desenvolvidos durante meus estudos e trabalhos. Sinta-se à vontade para explorar e deixar um feedback ou sugestão!</p>
 
 - 💻 **Back-End** Developer 
-- 🌱 Estudando: **Typescript, Express, PostgresSQL, Prisma ORM, Docker, Jest, Swagger**
+- 🌱 Estudando: **Golang**
 
 ### Projetos   💻 
 <ul>
