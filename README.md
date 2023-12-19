@@ -1,5 +1,3 @@
-<
-img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A66C8&height=120&section=header"/>
 
 <h1 align="center">Bem-vindo(a) ao meu GitHub!</h1>
   <p Align="justify">Olá, meu nome é Átila e sou um desenvolvedor apaixonado por tecnologia. Meu foco atual de estudo é em BackEnd, mas também tenho experiência em Analise de dados e Geoprocessamento.</p>
