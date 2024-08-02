@@ -8,16 +8,7 @@
 - 💻 **Back-End** Developer 
 - 🌱 Estudando: **Golang**
 
-### Projetos   💻 
-<ul>
-  <li><a href="https://github.com/AtilaRocha/HydroDataViewer"> HydroDataViewer </a></li>
-  <li><a href="https://github.com/AtilaRocha/Api-with-Flask">Api Flask </a></li>
-  <li><a href="https://github.com/AtilaRocha/webscraping-tempo.com">Web Scraping do tempo.com</a></li>
-</ul>
-<hr>
-
 ## 🚀 Skills
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -32,31 +23,9 @@
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-  
-## 👩‍💻 IDE
-![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
-![vscode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
-![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
-## 👨‍💻 Office
-![google sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)&nbsp;
-![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![world](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
-![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-lightgrey?style=for-the-badge&logo=notion)&nbsp;
-
-## Cursos Complementares
-- Microsserviços Java com Spring Boot e Spring Cloud
-- Inglês (Intermediário)
-- Trilha Digital | Web Back-End
-- API Rest
-- Git Versionamento
-- Programação Web com Python e Django Framework
-- Séries Temporais com Python 
 
 ## 👨 Social
-
 <a href="mailto:atila.o.rocha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/atila-rocha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/5598983446723" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A66C8&height=120&section=footer"/>
